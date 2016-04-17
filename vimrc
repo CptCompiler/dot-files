@@ -32,4 +32,9 @@ call plug#begin('~/.vim/plugged')
 Plug 'scrooloose/nerdtree'
 Plug 'tmhedberg/matchit'
 Plug 'jszakmeister/vim-togglecursor'
+Plug 'ctrlpvim/ctrlp.vim'
+Plug 'powerline/powerline'
+Plug 'valloric/youcompleteme'
+Plug 'ervandew/supertab'
+Plug 'tpope/vim-fugitive'
 call plug#end()
